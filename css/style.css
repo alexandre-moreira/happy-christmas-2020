@@ -71,3 +71,14 @@ section #tree{
     background-position-y:266px ;
     z-index: 10;
 }
+
+section #text{
+    position: absolute;
+    bottom: -4000;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 6em;
+    z-index: 9;
+}
